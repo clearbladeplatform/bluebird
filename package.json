@@ -99,5 +99,6 @@
   },
   "version": "3.5.1",
   "webpack": "./js/release/bluebird.js",
-  "image": "https://i.imgur.com/qtk66PX.png"
+  "image": "https://i.imgur.com/qtk66PX.png",
+  "image_url": "https://i.imgur.com/xoTJLA7.png"
 }
