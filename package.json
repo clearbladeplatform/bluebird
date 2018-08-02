@@ -98,5 +98,6 @@
     "test": "node tools/test.js"
   },
   "version": "3.5.1",
-  "webpack": "./js/release/bluebird.js"
+  "webpack": "./js/release/bluebird.js",
+  "image": "https://i.imgur.com/qV4NtF7.png"
 }
